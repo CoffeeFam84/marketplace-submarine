@@ -1,0 +1,33 @@
+
+.chartImg{
+  width:109px;
+  height:57px;
+  position: absolute; 
+  bottom: 0px;
+  right: 0px;
+}
+.item{
+  background:#0B354C;
+  display:flex;
+  border-radius:10px;
+  height:100px;
+  width:200px;
+  position :relative;
+  margin:10px;
+}
+@media screen and (max-width:511px){
+  .item{
+    width: 100%;
+  }
+}
+@media screen and (min-width:1460px){
+  .item{
+    width: 100%;
+  }
+ 
+}
+@media screen and (max-width:1390px){
+ .item{
+   width: 100%;
+ }
+}

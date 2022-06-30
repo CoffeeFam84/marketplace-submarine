@@ -1,0 +1,14 @@
+.icon_button{
+  display: block;
+}
+
+@media screen and (max-width:375px){
+  .icon_button{
+    display:none !important;
+  }
+}
+@media screen and (max-width:500px){
+  .icon_button{
+    display:none !important;
+  }
+}

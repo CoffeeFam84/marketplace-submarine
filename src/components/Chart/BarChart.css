@@ -1,0 +1,11 @@
+.time-group{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.chart-box{
+  background:#0E1B29;
+  padding:23px;
+  border-radius: 10px;
+}
